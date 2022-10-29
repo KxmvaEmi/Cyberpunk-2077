@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://assets.www.warnerbroslatino.com/drupal-root/public/cyberpunk2077_02.png");
+    text-align: center;
+}
+h1 {
+    color:rgb(209, 209, 19);
+    font-size: 200px;
+    
+}
+h2 {
+    color: rgb(21, 107, 192);
+    font-size: 100px;
+}
+h3 {
+    color:blanchedalmond;
+    font-size: 35px;
+    background-color: rgb(123, 161, 218);
+}
+#menucompleto{
+    list-style: none;
+    position: absolute;
+    cursor: pointer;
+    background-color: rgb(175, 123, 218);
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    font-size: xx-large;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.menu{float: left;
+padding: 5px;
+}
+a:hover{
+color:deepskyblue;
+font-size: 150px;
+}
+.menu a:hover{
+    font-size: 50px;
+}

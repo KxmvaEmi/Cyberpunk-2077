@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://i0.wp.com/akihabarablues.com/wp-content/uploads/2020/12/cyberpunk.jpg?ssl=1");
+    text-align: center;
+}
+h1 {
+    color:rgb(181, 182, 166);
+    font-size: 200px;
+    
+}
+h2 {
+    color: rgb(98, 53, 131);
+    font-size: 100px;
+    background-color: rgb(186, 123, 218);
+}
+h3 {
+    color:rgb(145, 51, 131);
+    font-size: 50px;
+    background-color: rgb(186, 123, 218);
+}
+h4 {
+    color:rgb(229, 146, 30);
+    font-size: 100px;
+    background-color: rgb(218, 237, 126);
+}
+h5 {
+    color:rgb(180, 122, 42);
+    font-size: 50px;
+    background-color: rgb(218, 237, 126);
+}
+h6{
+    color:rgb(23, 193, 193);
+    font-size: 100px; 
+    background-color: rgb(155, 230, 181);
+}
+h7{
+    color:rgb(19, 147, 147);
+    font-size: 50px; 
+    background-color: rgb(155, 230, 181);
+}
+#menucompleto{
+    list-style: none;
+    position: absolute;
+    cursor: pointer;
+    background-color: rgb(175, 123, 218);
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    font-size: xx-large;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu{float: left;
+padding: 5px;
+}
+a:hover{
+    color:deepskyblue;
+    font-size: 150px;
+    }
+    .menu a:hover{
+        font-size: 50px;
+    }
